@@ -21,7 +21,7 @@ export default defineUserConfig<DefaultThemeOptions, ViteBundlerOptions>({
       "We're sorry, this page can't be found, it may have been moved or deleted. " +
         "Please try searching for the page you're looking for or request it be authored from our Github issues page!",
     ],
-    danger: "THIS IS DANGEROUS. USE CAUTION",
+    danger: "DANGER!",
     docsDir: "docs",
   },
 
